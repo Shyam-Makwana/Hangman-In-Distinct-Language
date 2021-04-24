@@ -26,4 +26,4 @@ Hangman is a guessing game for two or more players. One player thinks of a word,
 
 - Solve the puzzle before the hangman dies.
 
-![alt text](https://i.gifer.com/Kfde.gif)
+![alt text](https://res.cloudinary.com/wdwfsdp/image/upload/v1619258461/Kfde_vwigpm.gif)
